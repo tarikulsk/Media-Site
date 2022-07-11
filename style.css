@@ -1,0 +1,102 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+    margin-top: 0%;
+
+}
+
+
+h3 {
+    font-size: 25px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.half-width {
+    width: 50%;
+}
+
+
+/* header style start */
+
+a {
+    font-size: 30px;
+    margin-left: 10%;
+    text-decoration: none;
+    padding-top: 5%;
+}
+
+.header-bg {
+    background-color: bisque;
+    width: 100%;
+    height: 2cm;
+    margin-bottom: 3px;
+}
+
+#searchbar {
+    width: 30%;
+    padding: .75%;
+    margin-top: 1%;
+    margin-left: 2%;
+
+}
+
+
+/* header style end */
+
+/* top Banner style start */
+
+.top-banner {
+    background-image: url(images/22033.jpg);
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+    color: aliceblue;
+
+}
+
+/* top Banner style end */
+
+/* Telawat Stayle start */
+
+#id-1 {
+
+    padding-left: 3%;
+
+}
+
+#id-2 {
+    width: 100%;
+    text-align: right;
+    margin-right: 1%;
+}
+
+.half-width-a {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    background-color: bisque;
+    box-shadow: 10px 10px 40px green;
+    padding-top: 0%;
+    padding-bottom: 1%;
+
+}
+
+#myBtn {
+    margin-right: 2%;
+    width: auto;
+    height: 1cm;
+}
+
+/* Telawat Stayle end */

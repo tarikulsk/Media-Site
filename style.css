@@ -174,18 +174,9 @@ a {
 
 }
 
-#id-4 {
-    width: auto;
-    height: .5cm;
-    text-decoration: none;
-    margin-left: 1%;
-    background-color: rgb(66, 99, 243);
-    color: aliceblue;
-    align-items: center;
-    margin-top: 3%;
-    border-color: rgb(66, 99, 243);
-
-
+.class-4 {
+    display: flex;
+    font-size: medium;
 }
 
 /* footer style end */
